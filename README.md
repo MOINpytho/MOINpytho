@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MOINpytho
-- 👀 I’m interested in prigramming
-- 🌱 I’m currently learning cpp
+- 👋 Hi, I’m @MOINjava
+- 👀 I’m interested in programming
+- 🌱 I’m currently a java developer
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me ...
 
 <!---
 MOINpytho/MOINpytho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
